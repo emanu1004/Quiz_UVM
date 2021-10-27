@@ -1,3 +1,4 @@
+`include "detector_secuencia.sv"
 `include "item.sv"
 `include "secuencia.sv"
 `include "driver.sv"
